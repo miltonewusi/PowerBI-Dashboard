@@ -41,7 +41,7 @@ This project provides a foundation for:
 
 ## 🧰 Tools Used
 
-- **ODK / Kobo Toolbox** – data collection
+- **KoboToolbox Server / Kobo Collect Mobile Application** – data collection
 - **Power BI / Power Query / DAX** – data cleaning, transformation, and visualization
 - **CSV** – data import/export format
 
