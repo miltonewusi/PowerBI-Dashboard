@@ -4,7 +4,7 @@ Hypertension, often called the “silent killer,” poses a major public health 
 
 ## 📡 Data Collection
 
-Data was gathered via a structured survey using **Open Data Kit (ODK)**. Responses were stored securely on the **Kobo Toolbox** server. A total of **602 individuals** participated, providing comprehensive information on age, sex, BMI, alcohol use, smoking habits, and more.
+Data was gathered via a structured survey using **Kobo Collect Mobile App**. Responses were stored securely on the **Kobo Toolbox** server. A total of **602 individuals** participated, providing comprehensive information on age, sex, BMI, alcohol use, smoking habits, and more.
 
 ## 🔄 ETL Process
 
